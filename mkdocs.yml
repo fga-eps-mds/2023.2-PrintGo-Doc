@@ -1,7 +1,5 @@
 site_name: PCGO
 repo_url: https://github.com/fga-eps-mds/2023-2-PCGO-Doc
 theme:
-    name: simple-blog
-    locale: pt
-    include_sidebar: false
-    
+    name: material
+    locale: pt    
