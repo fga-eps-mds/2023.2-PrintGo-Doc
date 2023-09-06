@@ -1,3 +1,35 @@
 site_name: PCGO
 theme:
-  name: material
+    name: material
+    palette:
+        primary: custom
+    font:
+        text: Roboto
+    logo: assets/logo.png
+    features:
+        - content.code.annotate
+        - content.tabs.link
+        - header.autohide
+        - navigation.instant
+        - navigation.sections
+        - navigation.tabs
+        - navigation.top
+        - navigation.tracking
+
+nav:
+    - Sobre: index.md
+    - Guias:
+        - Guia de Contribuição: guia_de_contribuicao.md
+    - Comunicação:
+        - Comunicação do Time: comunicacao.md
+        - Rituais da Equipe:  rituais.md
+        - Relatório de Eventos: 
+            - Semana 1: Relatórios/semana1.md
+    - Planejamento:
+        - Planejamento: planejamento.md
+        - Quadro de conhecimento: Controle/quadro_de_conhecimento.md
+        - Quadro de disponibilidade: Controle/quadro_de_disponibilidade.md
+        - Cronograma de dojo: Controle/cronograma_de_dojo.md
+
+extra_css:
+  - stylesheets/extra.css
