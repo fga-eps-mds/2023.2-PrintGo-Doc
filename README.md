@@ -13,5 +13,5 @@
 |EPS|180078640|Yuri Alves Bacarias|[yuriAlves5](https://github.com/yuriAlves5)|yurivalerio12@gmail.com|
 |EPS|180103792|Júlia Farias Sousa|[julisous](https://github.com/julisous)|julia.farias840@gmail.com|
 |EPS|180098021|Antonio Rangel Chaves|[AntonioRangelC](https://github.com/AntonioRangelC)|antonio.rangel.02@gmail.com|
-
+|EPS|180132385|Vitor Diniz Pagani Vieira Ribeiro|[vitordiniz25](https://github.com/vitordiniz25)|vitordiniz25@gmail.com|
 
