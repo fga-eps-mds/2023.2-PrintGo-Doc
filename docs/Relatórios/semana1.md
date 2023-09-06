@@ -2,7 +2,7 @@
 ## Visão geral
 **Data de Inicio:** 29/09/2023
 
-**Data de Término:** 03/09/2023
+**Data de Término:** 04/09/2023
 
 ## Atividades realizadas
 
@@ -35,3 +35,4 @@ Legenda dos Quadros de Conhecimento:
 | Data | Versão | Descrição | Autor(es) |
 | ---- | ---- | ---- | ---- |
 | 06/09/2023 | 1.0 | Criação do Documento | Antonio Rangel Chaves |
+| 06/09/2023 | 1.1 | Revisão do Documento | Yuri Alves |
