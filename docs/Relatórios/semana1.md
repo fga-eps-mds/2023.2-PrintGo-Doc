@@ -14,13 +14,13 @@ Com o intuito de entender o nível de conhecimento nas tecnologias a serem utili
 
 O quadro abaixo apresenta um levantamento do nível de conhecimento dos alunos de MDS em relação às tecnologias candidatas de aplicação no projeto.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRCsP5oyrUH29vml9Ivtwj2sWLWmmcMsNoqKag-jQZOg7J5sMJvFi4_Nxm8aZBlfWAeXrooEnO4-rh1/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="500" height="500"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRCsP5oyrUH29vml9Ivtwj2sWLWmmcMsNoqKag-jQZOg7J5sMJvFi4_Nxm8aZBlfWAeXrooEnO4-rh1/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="width:100%" height="500"></iframe>
 
 #### Quadro de Conhecimento dos EPS:
 
 O quadro abaixo apresenta um levantamento do nível de conhecimento dos alunos de MDS em relação às tecnologias candidatas de aplicação no projeto.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRCsP5oyrUH29vml9Ivtwj2sWLWmmcMsNoqKag-jQZOg7J5sMJvFi4_Nxm8aZBlfWAeXrooEnO4-rh1/pubhtml?gid=1524027615&amp;single=true&amp;widget=true&amp;headers=false" width="500" height="500"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRCsP5oyrUH29vml9Ivtwj2sWLWmmcMsNoqKag-jQZOg7J5sMJvFi4_Nxm8aZBlfWAeXrooEnO4-rh1/pubhtml?gid=1524027615&amp;single=true&amp;widget=true&amp;headers=false" style="width:100%" height="500"></iframe>
 
 #### Legenda dos Quadros de Conhecimento:
 
