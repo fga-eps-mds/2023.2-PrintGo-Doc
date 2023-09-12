@@ -16,4 +16,5 @@
 |EPS|180132385|Vitor Diniz Pagani Vieira Ribeiro|[vitordiniz25](https://github.com/vitordiniz25)|vitordiniz25@gmail.com|
 |EPS|190042419|Davi Matheus da Rocha de Oliviera|[DaviMatheus](https://github.com/DaviMatheus)|matdavimat@gmail.com|
 |MDS|221022275|Felipe Amorim de Araújo|[LipeAKugel](https://github.com/LipeAKugel)|felipearaujodff@gmail.com|
+|MDS|190085045|Brenno da Silva Oliveira|[Brenno-Silva01](https://github.com/Brenno-Silva01)|brenno877@gmail.com|
 
