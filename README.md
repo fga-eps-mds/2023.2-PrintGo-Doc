@@ -22,3 +22,4 @@
 |MDS|221038248|Igor Alves de Abreu|[Igorabreueng](https://github.com/Igorabreueng)| igoralves.ab@gmail.com|
 |MDS|211043692|Otavio Henrique Moraes Brito|[Otavio4283](https://github.com/Otavio4283)| otavio.hmbrito@uol.com.br|
 |MDS|231032121|Wolfgang Friedrich Stein|[Wolffstein](https://github.com/WolffStein)|Wolffriederichstein@gmail.com|
+|MDS|202017281|Eduardo de Melo Colli|[ThornColli](https://github.com/ThornColli)|eduardodemelocolli@gmail.com|
