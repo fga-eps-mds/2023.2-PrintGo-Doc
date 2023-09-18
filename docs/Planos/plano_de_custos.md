@@ -103,7 +103,7 @@ A planilha a seguir apresenta uma melhor visualização dos custos semanais, de 
 
 Para consolidação dos custos, utilizamos a planilha conforme abaixo.
 
-<iframe width="1200" height="600" style="-webkit-transform:scale(0.8);-moz-transform-scale(0.8);" frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/1kdzz1YNHFtB67Of6R2GIzyFhf1q0JpOVAvLvgTXxyiE/edit#gid=0"></iframe>
+<iframe width="1200" height="600" style="-webkit-transform:scale(0.8);-moz-transform-scale(0.8);" frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/19XYfcZ6xtSD1jwY-sdzzC8tLoowWhWYH/edit?usp=sharing&ouid=114746036519560594040&rtpof=true&sd=true"></iframe>
 
 <!-- ## 5. EVM Agile
 
@@ -126,3 +126,4 @@ A partir dos custos levantados, foi possível planejar e organizar a  <a href=".
 |**Data**|**Descrição**|**Autore(es)**|
 |--------|-------------|--------------|
 |17/09/2023| Criação do documento | Lucas Lima |
+|18/09/2023| Correção do link da planilha | Lucas Lima |
