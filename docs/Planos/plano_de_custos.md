@@ -127,3 +127,4 @@ A partir dos custos levantados, foi possível planejar e organizar a  <a href=".
 |--------|-------------|--------------|
 |17/09/2023| Criação do documento | Lucas Lima |
 |18/09/2023| Correção do link da planilha | Lucas Lima |
+|18/09/2023| Revisão da documentação | Yuri Alves |
