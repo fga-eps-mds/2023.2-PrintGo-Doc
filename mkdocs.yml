@@ -32,7 +32,7 @@ nav:
         - Cronograma de dojo: Controle/cronograma_de_dojo.md
     - Planos:
         - Plano de custos: Planos/plano_de_custos.md
-        - Plano de risocs: Planos/plano_de_riscos.md
+        - Plano de riscos: Planos/plano_de_riscos.md
 
 extra_css:
   - stylesheets/extra.css
