@@ -47,6 +47,58 @@ A estimativa de custos com cursos de capacitação será considerado como R$0, p
 ### 2.5 Infraestrutura
 A estimativa de custos de infraestrutura foi planejada considerando o uso de energia elétrica e internet.
 
+#### Internet
+Para cálculo do custo de internet utilizaremos o preço médio de planos de 250 MB por mês que, de acordo com [melhorescolha](https://melhorescolha.com/internet-banda-larga/brasilia-df/) [4],é cerca de R$ 89,99.
+
+**Custo semanal de internet por integrante**
+* custo mensal da internet ÷ quantidade de semana no mês
+* 89,99 ÷ 4 = R$**22,50**
+
+**Custo semanal de internet por equipe**
+* custo semanal da internet por integrante x quantidade integrantes
+* 22,50 x 15 = R$**337,50**
+
+**Custo TOTAL de internet por equipe**
+* custo semanal da internet por equipe x quantidade de semanas do projeto
+* 337,50 x 17 = R$**5.737,5**
+
+#### Energia
+Para a estimativa de energia, seguiu-se os dados da [tabela de tarifas](https://www.neoenergiabrasilia.com.br/residencial-e-rural/Documents/tafiras%20vigentes/01_nbsb_tarifas_energia_eletrica_grupoB_nov_2022_reh3134.pdf) [2] da [neoenergiabrasilia](https://www.neoenergiabrasilia.com.br/Paginas/default.aspx), com os dados vigentes de novembro de 2022 à outubro de 2023. Segundo essa tabela, o custo do KW/h residencial, consumo ativo, de Brasília é cerca de R$0,70.
+Segundo dados de 2021 da [cultura uol](https://cultura.uol.com.br/noticias/26097_6-maneiras-de-economizar-na-conta-de-luz-do-home-office.html) [3], um notebook consome em média cerca de 65W/h, conectado ao carregador. Consideramos que cada integrante da equipe trabalhará 4 horas por semana em sua residência, ao longo de 17 semanas. Utilizando esses dados para cálculo, temos:
+
+**Consumo do notebook em KW/h:**
+* potência x horas ÷ 1000  
+* 65 x 1 ÷ 1000 = **0,065** KW/h
+
+**Custo semanal de energia por integrante**
+
+* horas de trabalho x consumo do notebook x tarifa
+* 4h x x 0,065KW/h x R$0,70
+* 4 x 0,065 x 0,70 = R$**0,18**
+
+**Custo semanal de energia por equipe**
+* custo semanal por aluno x quantidade de integrantes da equipe
+* 0,18 x 15 = R$**2,70**
+
+**Custo TOTAL de energia por equipe**
+* custo semanal por equipe x quantidade de semanas do projeto
+* 2,70 x 17 = R$**45,90**
+
+#### Custo TOTAL infraestrutura
+Somando as estimativas de custo semanal de internet (R$**337,50**) e energia (R$**2,70**) por equipe, têm-se um custo semanal de infraestrutura de **R$340,20**. Considerando as 17 semanas de projeto, o custo total de infrastrutura será de **R$5.783,40**.
+
+
+## 3. Definição do orçamento
+
+Considerando as estimativas de custos acima calculadas e uma margem de 10%, o orçamento total para o projeto em 17 semanas é:
+
+* custo pessoas + custo equipamentos + custo ferramentas + custo capacitação + custo infraestrutura
+* R$52.890,00 + R$45.000,00 + R$0 + R$0 + R$5.783,40 = **R$103.673,40**
+
+O custo do MVP é calculado com base nas semanas até sua entrega, calculado para X semanas. Sendo assim, o custo do MVP é de **R$X**.  
+A planilha a seguir apresenta uma melhor visualização dos custos semanais, de projeto e do MVP.
+
+
 
 ## 6. Referências Bibliográficas
 
