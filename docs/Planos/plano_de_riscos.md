@@ -67,6 +67,45 @@ A forma utilizada para a identifação de riscos do projeto foi a análise de pr
         Gerência, são relativos à estimativa, planejamento, controle e comunicação.
 
 
+## 3.  Riscos levantados
+
+###  Riscos técnicos
+|Risco| Descrição|	Ação Preventiva|	Ação Reativa	|Probabilidade	|Impacto|	Prioridade|
+|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
+| R01 | Falta de conhecimento com as tecnologias de desenvolvimento. |  Escolher os alunos que estão dispostos a aprender as ferramentas necessárias. | Procurar cursos e aplicar treinamento sobre as tecnologias. | 4 | 5  | 20 | 
+| R02 | Não cumprimento dos padrões de qualidade | Monitoramento dos indíces de qualidade	 |Implementar melhorias que atendam os padrões de qualidade | 8 | 5 | 25 | 
+| R03 | Alteração de Tecnologias do projeto |  Clareza no escopo do projeto | Planejamento de sprints de modo que possíveis alterações não afetem o desenvolvimento do projeto. | 2 | 2 | 10 |
+| R04 | Defeito no equipamento de algum integrante do grupo | Comunicação clara e transparente entre todos os membros do grupo. | Realocação de integrantes em diferentes funções |  1 | 4 | 10 | 
+| R05 | Conflito entre entregas da sprint e de tarefas de outras disciplinas | Planejamento das entregas	| Redefinição do planejamento das tarefas | 2 | 5 | 10 | 
+
+###  Riscos externos
+|Risco| Descrição|	Ação Preventiva|	Ação Reativa	|Probabilidade	|Impacto|	Prioridade|
+|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
+| R06 | Problemas na comunicação com o cliente | Clareza nas funcionalidades que serão entregues ao cliente | Reuniões para definir de forma concisa escopo e features. | 4 | 3 | 20 | 
+| R07 | Alguns dos membros contrair uma doença ou ficar indisponível | nenhuma ação preventiva	 | Redefinição do planejamento| 5 | 2 | 10 | 
+
+### Riscos organizacionais
+|Risco| Descrição|	Ação Preventiva|	Ação Reativa	|Probabilidade	|Impacto|	Prioridade|
+|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
+| R08 | Dependência entre as atividades| Planejar de forma paralela | Planejar issues de forma que issues não ocorra o excesso de dependências entre as issues | 3 | 3 | 8 | 
+
+###  Riscos de gerência
+|Risco| Descrição|	Ação Preventiva|	Ação Reativa	|Probabilidade	|Impacto|	Prioridade|
+|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
+| R09 | Alterar escopo | Reuniões para descrever de forma clara os requisitos do projeto. | Realizar a revisão e atualização do planejamento.| 3 | 3 | 20 |  
+| R10 | Falta de comunicação entre os integrantes do grupo |  Estabelecer ferramentas de comunição entre os membros, realizações de dailys e assuntos pontuais por whatsapp/telegram | Sempre deixar principais pontos das sprints em ambientes que os integrantes acessam constantemente. | 3 | 4 | 12 | 
+| R11 | Desistência de algum membro da equipe. | Dividir de forma igualitária as issues do projeto.  | Adequar os horários e realocar as tarefas entre os membros sem sobrecarregar nenhum membro. | 3 | 4 | 15 | 
+| R12 | Baixa produtividade dos integrantes do grupo |  Motivação da equipe através de dailys | Realizar checkpoints de saúde mental com os integrantes do grupo, ou elaboração de gamificação | 3 | 4 | 10 |
+| R13 | Conflitos de horários disponíveis para os integrantes. |  Montar uma grade com os horários disponíveis de cada membro. | Os pontos das sprints deve ser divido visando a carga horária compatível com o que os integrantes terão na semana, sendo maleável a mudanças(desde que o membro notifique o grupo no planejamento da sprint).| 4 | 3 | 10 | 
+
+## 4.  Planilha de Riscos 
+
+Durante o desenvolvimento de um projeto de software, é crucial acompanhar e monitorar os riscos envolvidos, uma vez que eles não são estáticos e podem variar em termos de gravidade ao longo do projeto. Com o objetivo de facilitar esse acompanhamento, foi desenvolvida uma planilha que permite inserir e atualizar a pontuação dos riscos em cada sprint.
+
+Essa planilha fornece uma visão clara e organizada dos riscos identificados, permitindo que a equipe monitore sua evolução ao longo do tempo. A pontuação dos riscos pode ser atribuída com base em critérios predefinidos, levando em consideração a probabilidade de ocorrência e o impacto caso ocorram
+
+
+
 ## 5. Referências Bibliográficas
 
 > [1] </b>FREITAS, Renata. Aplique o Plano de Gerenciamento de Riscos no seu negócio.</b> Disponível em: https://www.glicfas.com.br/plano-de-gerenciamento-de-riscos/. Acesso em: 17 de setembro de 2023
