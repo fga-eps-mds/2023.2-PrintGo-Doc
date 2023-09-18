@@ -30,6 +30,8 @@ nav:
         - Quadro de conhecimento: Controle/quadro_de_conhecimento.md
         - Quadro de disponibilidade: Controle/quadro_de_disponibilidade.md
         - Cronograma de dojo: Controle/cronograma_de_dojo.md
+    - Planos:
+        - Plano de custos: Planos/plano_de_custos.md
 
 extra_css:
   - stylesheets/extra.css
