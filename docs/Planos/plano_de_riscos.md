@@ -116,4 +116,4 @@ Essa planilha fornece uma visão clara e organizada dos riscos identificados, pe
 |--------|-------------|--------------|
 |17/09/2023| Criação do documento | Davi Matheus |
 |18/09/2023| Criação da planilha de Riscos | Davi Matheus |
-|18/09/2023| revisão da documentação | Davi Matheus |
+|18/09/2023| revisão da documentação | yuri alves |
