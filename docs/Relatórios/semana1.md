@@ -36,4 +36,4 @@ O quadro abaixo apresenta um levantamento do nível de conhecimento dos alunos d
 | ---- | ---- | ---- | ---- |
 | 06/09/2023 | 1.0 | Criação do Documento | Antonio Rangel Chaves |
 | 06/09/2023 | 1.1 | Revisão do Documento | Yuri Alves |
-| 07/09/2023 | 1.2 | Correção do Documento | Guilherme Daniel Fernandes da Silva |
+| 12/09/2023 | 1.2 | Correção do Documento | Guilherme Daniel Fernandes da Silva |
