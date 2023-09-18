@@ -7,7 +7,7 @@ O plano de gerenciamento de riscos tem como objetivo identificar, analisar e pla
 
 ## 2.  Estrutura Analítica dos Riscos (EAR)
 
-A estrutura analítica dos ricos, é uma ferramenta na qual são agrupados os riscos e classifica-os em categorias. Essas categorias são divididas de forma hieráquica destrinchando as possíveis fontes de risco.
+A estrutura analítica dos riscos, é uma ferramenta na qual são agrupados os riscos e classifica-os em categorias. Essas categorias são divididas de forma hieráquica destrinchando as possíveis fontes de risco.
 
 
 ###  2.1 Análise quantitativa
