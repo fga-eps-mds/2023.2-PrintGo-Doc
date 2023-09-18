@@ -99,6 +99,15 @@ O custo do MVP é calculado com base nas semanas até sua entrega, calculado par
 A planilha a seguir apresenta uma melhor visualização dos custos semanais, de projeto e do MVP.
 
 
+## 4. Planilha de custos
+
+Para consolidação dos custos, utilizamos a planilha conforme abaixo.
+
+<iframe width="1200" height="600" style="-webkit-transform:scale(0.8);-moz-transform-scale(0.8);" frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/1kdzz1YNHFtB67Of6R2GIzyFhf1q0JpOVAvLvgTXxyiE/edit#gid=0"></iframe>
+
+<!-- ## 5. EVM Agile
+
+A partir dos custos levantados, foi possível planejar e organizar a  <a href="../evm/" >EVM Agile do Projeto</a> -->
 
 ## 6. Referências Bibliográficas
 
