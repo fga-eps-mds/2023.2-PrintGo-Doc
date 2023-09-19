@@ -26,7 +26,7 @@ Se referem à equipe de EPS e MDS envolvidos diretamente com o projeto.
 
 |**Objetivo**|**Envolvidos**|**Frequência**|**Dia e Horário**|**Meio**|**Ferramenta**|
 |------------|--------------|--------------|-----------|--------|--------|
-| Daily | EPS e MDS | Duas vezes por semana | Terça e Quinta-feira, das 15h50 às 16h | Presencial | - |
+| Stand UP | EPS e MDS | Duas vezes por semana | Terça e Quinta-feira, das 15h50 às 16h | Presencial | - |
 | Planejamento de *sprint* | EPS e MDS | Semanal | Quarta-feira, das 20h às 21h | Remoto | Discord |
 
 **OBS**: Reuniões com o *product owner* e acompanhamentos podem ser realizados sob demanda.
