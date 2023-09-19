@@ -1,6 +1,6 @@
 # Guia de contribuição
  
- Este guia tem como objetivo te ajudar a contribuir com o nosso projeto, por ffavor leia com atenção!
+ Este guia tem como objetivo te ajudar a contribuir com o nosso projeto, por favor leia com atenção!
 
 ## 1 Antes de começar
 
@@ -106,6 +106,7 @@ Co-authored-by: Júlia Farias  <julia.farias@gmail.com>
 |**Data**|**Descrição**|**Autore(es)**|
 |--------|-------------|--------------|
 |18/09/2023| Criação do documento | Júlia Farias Sousa |
+|19/09/2023| Correção gramatical e modificação da política de branch | Júlia Farias Sousa |
 
 
 
