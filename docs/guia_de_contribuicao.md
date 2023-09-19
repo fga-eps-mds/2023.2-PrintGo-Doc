@@ -2,11 +2,11 @@
  
  Este guia tem como objetivo te ajudar a contribuir com o nosso projeto, por favor leia com atenção!
 
-## 1 Antes de começar
+## 1. Antes de começar
 
-Os detalhes de como instalar e executar os projetos podem ser encontrados no `README.md`.
+Os detalhes de como instalar e executar os projetos podem ser encontrados no [README.md](https://github.com/fga-eps-mds/2023.2-PCGO-DOC#readme).
 
-## 2 Reportando bugs
+## 2. Reportando bugs
 
 Você encontrou um bug?
 
@@ -16,7 +16,7 @@ Verifique se nenhuma _issue_ ou _pull request_ foi criada por outra pessoa com o
 * Se não, crie uma _issue_ explicando o problema e adicionando novas informações detalhadas que ajudem
 a reproduzi-lo.
 
-## 3 Sugerindo melhorias
+## 3. Sugerindo melhorias
 
 Você pode sugerir as melhorias que achar pertinente. Pedimos apenas que tente incluir o
 máximo de detalhes possíveis e que verifique se nenhuma _issue_ ou _pull request_ já foi
@@ -32,7 +32,7 @@ qual problema resolveria e possíveis desafios, por exemplo, são importantes pa
 o que você precisa. Esse é um projeto de código aberto, mantido por voluntários.
 Frequentemente precisamos escolher bem o que vamos fazer com os recursos que temos. :
 
-## 4 Criando _pull requests_
+## 4. Criando _pull requests_
 
 Você decidiu contribuir para o projeto!
 
@@ -63,7 +63,7 @@ escritas em português.
 mantendo o _pull request_ aberto por você.
 
 
-## 5 Política de Branch
+## 5. Política de Branch
 
 <p style="text-align: justify; text-indent: 20px">As branches serão nomeadas seguindo de maneira padronizada para a melhorar a organização do projeto. Utilizamos as branchs apenas para desenvolvimento de código sendo que todas as branchs devem ser criadas a partir da <b>main</b> e devem estar nomeadas da seguinte maneira:</p>
 
@@ -74,7 +74,7 @@ Exemplo: 4-CadastroImpressora
 
 <p style="text-align: justify; text-indent: 20px"> Sendo que X representa número da issue atribuída seguido pelo nome do documento a ser criado ou modificado, como destacado anteriormente. Em ocasiões em que não se está trabalhando com nenhum documento em específico, então deve-se colocar o nome da issue correspondente.</p>
 
-## 6 Política de Commit
+## 6. Política de Commit
 
 ### 6.1 Formato:
 
@@ -107,6 +107,7 @@ Co-authored-by: Júlia Farias  <julia.farias@gmail.com>
 |--------|-------------|--------------|
 |18/09/2023| Criação do documento | Júlia Farias Sousa |
 |19/09/2023| Correção gramatical e modificação da política de branch | Júlia Farias Sousa |
+|19/09/2023| Revisão do documento | Lucas Lima Ferraz |
 
 
 
