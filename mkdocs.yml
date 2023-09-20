@@ -21,16 +21,16 @@ nav:
     - Guias:
         - Guia de Contribuição: guia_de_contribuicao.md
     - Comunicação:
-        - Comunicação do Time: comunicacao.md
-        - Rituais da Equipe:  rituais.md
+        # - Comunicação do Time: comunicacao.md
+        # - Rituais da Equipe:  rituais.md
         - Relatório de Eventos: 
             - Semana 1: Relatórios/semana1.md
             - Semana 2: Relatórios/semana2.md
     - Planejamento:
         - Planejamento: planejamento.md
         - Quadro de conhecimento: Controle/quadro_de_conhecimento.md
-        - Quadro de disponibilidade: Controle/quadro_de_disponibilidade.md
-        - Cronograma de dojo: Controle/cronograma_de_dojo.md
+        # - Quadro de disponibilidade: Controle/quadro_de_disponibilidade.md
+        # - Cronograma de dojo: Controle/cronograma_de_dojo.md
     - Planos:
         - Plano de comunicação: Planos/plano_de_comunicacao.md
         - Plano de custos: Planos/plano_de_custos.md
