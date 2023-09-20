@@ -13,3 +13,4 @@ Ritual  realizado para que os membros da equipe compartilhem informações detal
 | Data | Versão | Descrição | Autor(es) |
 | ---- | ---- | ---- | ---- |
 | 19/09/2023 | 1.0 | Criação do Documento | Davi Matheus da Rocha de Oliveira |
+| 20/09/2023 | 1.1 | Revisão do Documento | Vitor Diniz Pagani Vieira Ribeiro |
