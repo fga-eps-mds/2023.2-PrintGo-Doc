@@ -21,8 +21,8 @@ nav:
     - Guias:
         - Guia de Contribuição: guia_de_contribuicao.md
     - Comunicação:
-        # - Comunicação do Time: comunicacao.md
-        # - Rituais da Equipe:  rituais.md
+         - Comunicação do Time: comunicacao.md
+         - Rituais da Equipe:  rituais.md
         - Relatório de Eventos: 
             - Semana 1: Relatórios/semana1.md
             - Semana 2: Relatórios/semana2.md
