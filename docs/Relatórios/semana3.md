@@ -45,3 +45,4 @@ O processo inicial de criação e desenvolvimento da documentação do projeto �
 | Data | Versão | Descrição | Autor(es) |
 | ---- | ---- | ---- | ---- |
 | 19/09/2023 | 1.0 | Criação do Documento | Davi Matheus da Rocha de Oliveira |
+| 20/09/2023 | 1.1 | Revisão do Documentos | Vitor Diniz Pagani Vieira Ribeiro |
