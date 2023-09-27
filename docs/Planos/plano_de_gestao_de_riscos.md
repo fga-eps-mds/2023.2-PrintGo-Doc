@@ -64,4 +64,4 @@ Para a classificação dos riscos consideramos as categorias abaixo:
 > [1] DevMedia. Gerência de riscos em desenvolvimento de software. Disponível em: https://www.devmedia.com.br/gerencia-de-riscos-em-desenvolvimento-de-software/28506. Acesso em: 26 set 2023.
 
 
-> [2] Isotani, Seiji; Rocha, Rafaela. Gestão de Riscos em Projetos de Software. Disponível em: https://edisciplinas.usp.br/pluginfile.php/3385127/mod_resource/content/1/Aula10-GerenciaProjeto-Riscos.pdf. Acesso em: 13 mai 2023.
+> [2] Isotani, Seiji; Rocha, Rafaela. Gestão de Riscos em Projetos de Software. Disponível em: https://edisciplinas.usp.br/pluginfile.php/3385127/mod_resource/content/1/Aula10-GerenciaProjeto-Riscos.pdf. Acesso em: 23 set 2023.
