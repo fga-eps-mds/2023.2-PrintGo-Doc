@@ -35,6 +35,8 @@ nav:
     - Planos:
         - Plano de custos: Planos/plano_de_custos.md
         - Plano de riscos: Planos/plano_de_riscos.md
+    - Definições do Projeto:
+        - Metodologias: DefiniçõesDoProjeto/metodologia.md
 
 extra_css:
   - stylesheets/extra.css
