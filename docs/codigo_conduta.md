@@ -42,5 +42,6 @@ Este Código de Conduta é adaptado do [Contributor Covenant](https://www.contri
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|--------------|
 |27/09/2023| Adição do documento | Yuri alves |
+|27/09/2023| Revisão do documento | Antonio Rangel |
 
 
