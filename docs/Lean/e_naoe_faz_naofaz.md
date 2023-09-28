@@ -1,9 +1,11 @@
 # É, Não é, Faz, Não faz
 
 ## 1. Definição
-A atividade __É - Não É - Faz - Não__ ajuda a definir um tópico (seja um produto, um time ou uma estratégia). Por vezes, é mais fácil descrever algo pelo que tal coisa não é ou deixa de fazer. Essa atividade busca clarificações desta forma, indagando, especificamente, cada aspecto positivo e negativo sobre ser ou fazer algo.
+A atividade __É - Não É - Faz - Não Faz__ ajuda a definir um tópico (seja um produto, um time ou uma estratégia). Por vezes, é mais fácil descrever algo pelo que tal coisa não é ou deixa de fazer. Essa atividade busca clarificações desta forma, indagando, especificamente, cada aspecto positivo e negativo sobre ser ou fazer algo.
 
 Durante esta etapa no Lean Inception, a equipe colabora para estabelecer de forma precisa os limites do escopo do produto ou projeto. Essa abordagem é essencial para estabelecer critérios definidos e evitar ambiguidades na definição do escopo.
+
+A __Versão 1__ foi feita por integrantes do time, em uma reunião, e após validação com os clientes, a __Versão 2__ foi criada.
 
 ## 2. Resultado
 
@@ -26,3 +28,4 @@ Versão 2:
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|--------------|
 |28/09/2023| Criação do Documento | Vitor Diniz |
+|28/09/2023| Revisão do Documento | Antonio Rangel |
