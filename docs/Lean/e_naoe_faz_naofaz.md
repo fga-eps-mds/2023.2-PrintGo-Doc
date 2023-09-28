@@ -29,3 +29,4 @@ Versão 2:
 |--------|-------------|--------------|
 |28/09/2023| Criação do Documento | Vitor Diniz |
 |28/09/2023| Revisão do Documento | Antonio Rangel |
+|28/09/2023| Revisão do Documento | Júlia Farias|
