@@ -38,6 +38,7 @@ nav:
         - Plano de riscos: Planos/plano_de_riscos.md
     - Lean Inception:
         - É, não é, faz, não faz: Lean/e_naoe_faz_naofaz.md
+        - Sequenciador: Lean/sequenciador.md
 
 extra_css:
   - stylesheets/extra.css
