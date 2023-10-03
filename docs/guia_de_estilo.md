@@ -21,7 +21,7 @@ A principal família tipográfica definida para o projeto é a Overpass e suas v
 
 #### Primárias
 
-![cores principais](../assets/guia-de-estilo/primarias.png)
+![cores principais](../assets/guia-de-estilo/primarias.jpeg)
 
 #### Secundárias
 
@@ -44,3 +44,4 @@ Os icones utilizados na aplicação são obtidos a partir da biblioteca [materia
 | **Data**   | **Descrição**                       | **Autor(es)**         |
 | ---------- | ----------------------------------- | --------------------- |
 | 03/10/2023 | Criação do documento guia de estilo | Júlia Farias Sousa |
+| 03/10/2023 | Alteração das cores | Júlia Farias Sousa, Lucas Lima, Yuri Alves|
