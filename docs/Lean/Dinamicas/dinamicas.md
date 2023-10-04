@@ -54,3 +54,4 @@ Discussões:
 |--------|-------------|--------------|
 |04/10/2023| Criação do Documento | Antonio Rangel e Vitor Diniz |
 |04/10/2023| Revisão e correção do Documento | Guilherme Daniel Fernandes da Silva |
+|04/10/2023| Revisão | Natanael Fernandes Coelho Filho |
