@@ -39,6 +39,7 @@ nav:
         - Plano de custos: Planos/plano_de_custos.md
         - Plano de riscos: Planos/plano_de_riscos.md
     - Lean Inception:
+        - Dinamicas: Lean/Dinamicas/dinamicas.md
         - É, não é, faz, não faz: Lean/e_naoe_faz_naofaz.md
         - Sequenciador: Lean/sequenciador.md
 
