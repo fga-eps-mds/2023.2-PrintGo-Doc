@@ -45,3 +45,4 @@ Os icones utilizados na aplicação são obtidos a partir da biblioteca [materia
 | ---------- | ----------------------------------- | --------------------- |
 | 03/10/2023 | Criação do documento guia de estilo | Júlia Farias Sousa |
 | 03/10/2023 | Alteração das cores | Júlia Farias Sousa, Lucas Lima, Yuri Alves|
+| 03/10/2023 | Revisão do Documento | Davi Matheus da Rocha de Oliveira |
