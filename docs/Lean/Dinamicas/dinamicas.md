@@ -4,11 +4,11 @@
 
 ### **O que é a atividade do Panorama?**
 
-Esta atividade foi realizada dia 13/09/2023 e é utilizada para conhecer melhor os clientes e o ambiente que os envolvem. É utilizada uma analogia com um barco, onde tanto os clientes quanto as equipes de EPS e MDS estão navegando no mesmo barco. Em cada etapa da atividade, os clientes preencheram o quadro com post-its.
+Esta atividade foi realizada dia 13/09/2023 e foi utilizada para conhecer melhor os clientes e o ambiente que os envolvem. É utilizada uma analogia com um barco, onde tanto os clientes quanto as equipes de EPS e MDS estão navegando no mesmo barco. Em cada etapa da atividade, os clientes preencheram o quadro com post-its.
 
 ### **Qual é o nosso objetivo?**
 
-O objetivo do barco é chegar na ilha do tesouro, este tesouro sendo a resolução do problema. Então os clientes escreveram no quadro qual seria o tesouro que eles querem alcançar.
+O objetivo do barco é chegar na ilha do tesouro, sendo este tesouro a solução apresentada para o problema. Então os clientes escreveram no quadro qual seria o tesouro que eles querem alcançar.
 
 ### **Quais os nossos pontos fortes?**
 
@@ -20,7 +20,7 @@ As barreiras internas são fatores que inviabilizem/impeçam a execução da ati
 Dentro do contexto do barco, uma barreira interna que o barco possui seria por exemplo a âncora, que impede o barco/navio de se mover.
 
 ### **Quais as nossas barreiras externas?**
-As barreiras externas são representadas como os tubarões na analogia, e na vida real são os problemas que estão fora do alcance do cliente e que podem atrapalhar o caminho até o objetivo.
+As barreiras externas são representadas como os tubarões na analogia e na vida real são os problemas que estão fora do alcance do cliente e que podem atrapalhar o caminho até o objetivo.
 
 
 ### **Discussões**
@@ -53,3 +53,4 @@ Discussões:
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|--------------|
 |04/10/2023| Criação do Documento | Antonio Rangel e Vitor Diniz |
+|04/10/2023| Revisão e correção do Documento | Guilherme Daniel Fernandes da Silva |
