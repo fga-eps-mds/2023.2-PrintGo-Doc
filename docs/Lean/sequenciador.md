@@ -20,3 +20,4 @@ O sequenciador é um template que consiste em uma sequência de ondas numeradas,
 |--------|-------------|--------------|
 |28/09/2023| Criação do Documento | Júlia Farias, Wolfgang Stein, Felipe Amorim, Antonio Rangel |
 |28/09/2023| Revisão do Documento | Felipe Amorim |
+|03/10/2023 | Adição da nova versão do Sequenciador | Antonio Rangel |
