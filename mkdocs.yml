@@ -20,6 +20,7 @@ nav:
     - Sobre: index.md
     - Guias:
         - Guia de Contribuição: guia_de_contribuicao.md
+        - Guia de Estilo: guia_de_estilo.md
     - Comunicação:
         - Comunicação do Time: comunicacao.md
         - Rituais da Equipe:  rituais.md
