@@ -34,4 +34,5 @@ Seguindo as orientações para a elaboração do canvas, a equipe se reuniu em 2
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|--------------|
 |03/10/2023| Criação do Documento | Davi Matheus , Natanael Fernandes, Antonio Rangel |
+|07/10/2023| Revisão do Documento | Antonio Rangel |
 
