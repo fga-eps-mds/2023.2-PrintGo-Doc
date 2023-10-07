@@ -38,3 +38,4 @@ Durante essa etapa, a equipe trabalha em conjunto de forma colaborativa, seguind
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|--------------|
 |04/10/2023| Criação do Documento | Davi Matheus, Natanael Fernandes |
+|07/10/2023| Revisão do Documento | Antonio Rangel |
