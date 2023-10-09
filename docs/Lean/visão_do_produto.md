@@ -1,13 +1,10 @@
 # Visão do Produto  
 
-
-
 ## 1. Definição
 
 A etapa da visão do produto no Lean Inception desempenha um papel crucial na definição inicial do produto, fornecendo um processo estruturado para estabelecer uma visão abrangente e ponderar sobre o seu valor.
 
 Durante essa etapa, a equipe trabalha em conjunto de forma colaborativa, seguindo um template específico, com o objetivo de criar uma visão clara e compartilhada do produto em desenvolvimento.
-
 
 ### TEMPLATE
 
@@ -30,7 +27,6 @@ Durante essa etapa, a equipe trabalha em conjunto de forma colaborativa, seguind
 
 ## 3. Referências
 
-
 > [2] Lean Inception - Como alinhar pessoas e construir o produto certo. Paulo Caroli.
 
 ## 4. Histórico de versão
@@ -39,3 +35,4 @@ Durante essa etapa, a equipe trabalha em conjunto de forma colaborativa, seguind
 |--------|-------------|--------------|
 |04/10/2023| Criação do Documento | Davi Matheus, Natanael Fernandes |
 |07/10/2023| Revisão do Documento | Antonio Rangel |
+|09/10/2023| Revisão do Documento | Natanael Fernandes |
