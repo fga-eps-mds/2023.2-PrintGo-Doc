@@ -43,7 +43,8 @@ nav:
         - Visão do Produto: Lean/visão_do_produto.md
         - É, não é, faz, não faz: Lean/e_naoe_faz_naofaz.md
         - Sequenciador: Lean/sequenciador.md
-        
+        - Canvas MVP: Lean/mvp_canvas.md
+
 
 extra_css:
   - stylesheets/extra.css
