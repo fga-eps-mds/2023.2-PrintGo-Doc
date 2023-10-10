@@ -38,6 +38,8 @@ nav:
     - Planos:
         - Plano de custos: Planos/plano_de_custos.md
         - Plano de riscos: Planos/plano_de_riscos.md
+    - Gestão de Projeto:
+        - EAP (Estrutura Analítica do Projeto): GestaoProjeto/eap.md
     - Lean Inception:
         - Dinamicas: Lean/Dinamicas/dinamicas.md
         - Visão do Produto: Lean/visão_do_produto.md
