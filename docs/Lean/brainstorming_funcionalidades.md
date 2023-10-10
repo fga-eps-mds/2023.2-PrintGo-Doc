@@ -25,4 +25,4 @@ Abaixo segue a versão final que obtivemos após realizar a dinâmica com a equi
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|--------------|
 |10/10/2023| Criação do Documento |Júlia Farias Sousa|
-||
+|10/10/2023| Revisão do documento | Lucas Lima Ferraz|
