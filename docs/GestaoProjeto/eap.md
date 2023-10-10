@@ -14,3 +14,4 @@ Neste documento, exploraremos o conceito da EAP e como ela se tornou uma base na
 | Data | Versão | Descrição | Autor(es) |
 | ---- | ---- | ---- | ---- |
 | 08/10/2023 | 1.0 | Criação do Documento | Natanael Fernandes|
+| 10/10/2023 | 1.0 | Criação do Revis"ao de documento | Júlia Farias Sousa|
