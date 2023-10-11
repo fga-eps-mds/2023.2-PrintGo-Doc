@@ -29,3 +29,4 @@ No quadro abaixo conseguimos ver o resultado da dinâmica realizada com o client
 |--------|-------------|--------------|
 |10/10/2023| Criação do Documento |Júlia Farias Sousa|
 |10/10/2023| Revisão do documento | Lucas Lima Ferraz|
+|11/10/2023| Revisão do documento | Guilherme Daniel Fernandes da Silva |

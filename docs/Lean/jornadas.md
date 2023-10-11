@@ -23,3 +23,4 @@ Abaixo segue a versão final que obtivemos das jornadas dos usuários:
 |--------|-------------|--------------|
 |10/10/2023| Criação do Documento |Júlia Farias Sousa|
 |10/10/2023| Revisão do documento | Lucas Lima Ferraz|
+|11/10/2023| Revisão do documento | Guilherme Daniel Fernandes da Silva |
