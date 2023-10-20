@@ -46,3 +46,8 @@ permitindo rastrear as estatísticas de impressão para cada dispositivo.
 
 ### Diagrama Lógico de Dados (DLD)
 ![DLD](../assets/arquitetura/DLD_printer.png)
+
+|**Data**|**Descrição**|**Autore(es)**|
+|--------|-------------|--------------|
+| 18/10/2023 | Criação do documento | Júlia Farias Sousa|
+| 20/10/2023 | Adicionando referências e versionamento | Júlia Farias Sousa|
