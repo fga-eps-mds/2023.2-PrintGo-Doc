@@ -14,3 +14,7 @@ Este documento está estruturado da seguinte forma:
 ## 2. Representação Arquitetural
 
 ## 3. Visão Lógica
+### 3.1 Diagrama de Pacotes
+
+### 3.2 Diagrama de implantação
+![Diagrama de Implantação](../assets/arquitetura/diagrama-implantacao.png)
