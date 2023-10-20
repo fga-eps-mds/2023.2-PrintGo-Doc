@@ -18,3 +18,17 @@ Este documento está estruturado da seguinte forma:
 
 ### 3.2 Diagrama de implantação
 ![Diagrama de Implantação](../assets/arquitetura/diagrama-implantacao.png)
+
+## 4. Referencências bibliográficas
+
+> [1] EQUIPE ALECTRION 2022-2. Documento de Arquitetura. Disponível em: https://fga-eps-mds.github.io/2022-2-Alectrion-DOC/#/./Documentos/arquitetura. Acesso em: 18 out. 2023.
+
+> [2] SOARES, João Pedro; ESTANISLAU, Matheus. Documento de Arquitetura. Disponível em: https://fga-eps-mds.github.io/2022-1-Alectrion-DOC/documentation/Documentos/documento-arquitetura.html. Acesso em: 18 out. 2023.
+
+## 5. Histórico de versão
+
+|**Data**|**Descrição**|**Autore(es)**|
+|--------|-------------|--------------|
+| 20/10/2023 | Criação do documento | Vitor Diniz |
+| 20/10/2023 | Adicionado diagrama de implantação | Vitor Diniz |
+| 20/10/2023 | Adicionando referências e versionamento | Vitor Diniz |
