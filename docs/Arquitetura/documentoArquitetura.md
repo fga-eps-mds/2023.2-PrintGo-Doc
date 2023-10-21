@@ -21,15 +21,8 @@ Este documento está estruturado da seguinte forma:
 <p align="justify">&emsp;&emsp;O Diagrama de Pacotes é um diagrama estrutural utilizado para organizar as classes de um projeto em pacotes. Um pacote é uma coleção de elementos relacionados, o que inclui diagramas, classes e pacotes de eventos. Ele proporciona uma visibilidade de alto nível, o que é interessante principalmente para grandes projetos e sistemas. </p>
 <p align="justify">&emsp;&emsp;Nosso diagrama de pacotes segue a arquitetura definida pelas diretrizes da disciplina, que é a arquitetura de microsserviços, então foi definido o pacote maior como o nosso sistema e dentro dele encontramos primeiro a camada do front-end, que realiza requisições para a camada abaixo que representa o back-end  que possui os nossos 3 microsserviços (UserService, PrintService e OcurrenceService) e que por fim se relaciona com o banco de dados.</p>
 
-<div style="background-color:white">
-
-![Diagrama de Pacotes]()
-<p align="center">
-    <i>Imagem 1: Diagrama de Pacotes 
-    Versão 1.0 </i>
-</p>
-
-</div>
+![Diagrama de Pacotes Front](../assets/arquitetura/pacotesFront.png)
+![Diagrama de Pacotes Back](../assets/arquitetura/pacotesBack.png)
 
 #### 3.1.1.2 Símbolos e componentes utilizados
 Seta tracejada: indica as dependências em uma representação visual de como um elemento influencia o outro.
@@ -61,3 +54,4 @@ Importação de pacote (import): O conteúdo público do pacote de destino é ad
 | 20/10/2023 | Adicionado diagrama de implantação | Vitor Diniz |
 | 20/10/2023 | Adicionando referências e versionamento | Vitor Diniz |
 | 20/10/2023 | Adicionando texto do diagrama de pacotes | Júlia Farias Sousa |
+| 21/10/2023 | Adicionando o diagrama de pacotes | Lucas Lima Ferraz |
