@@ -5,40 +5,45 @@
 • USUARIO
 
 • IMPRESSAO
+
+• LOTACAO
+
+• CARGO
+
 ### 2) Descrição das Entidades
-- IMPRESSORA (impressoraID, enderecoIP, modelo, localizacao, marca,
-statusImpressora, numImpressoes)
-- USUARIO (usuarioID, email, funcao)
-- IMPRESSAO (impressaoID, impressoraID, data, hora, nomeDocumento,
-numPaginas, usuarioID)
+- IMPRESSORA (<u>impressoraID</u>, enderecoIP, modelo, localizacao, marca, statusImpressora, numImpressoes)
+- USUARIO (<u>usuarioID</u>, email, cargoID, documento, lotacaoID , senha, nome)
+- IMPRESSAO (<u>impressaoID</u>, impressoraID, dataImpressao, nomeDocumento, numPaginas, usuarioID)
+- CARGO(<u>cargoID</u>, nomeCargo)
+- LOTACAO(<u>lotacaoID</u>, nomeLotacao, endereco(rua, logradouro, complemento, bairro, cidade, cep, numero))
+
 ### 3) Relacionamentos:
 
-IMPRESSORA – realiza – IMPRESSAO
+USUARIO - **esta** - LOTACAO 
+Um usuário está alocado em uma lotação e uma lotação aloca vários usuários
+Cardinalidade – N:1
 
-Cada impressora tem a capacidade de realizar impressões, permitindo que
-documentos sejam impressos por ela. Cada impressão será realizada por uma
-impressora.
-1-> N
+USUARIO - **tem** - CARGO
+Um usuário tem um cargo e um cargo pode ser tido por vários usuários.
+Cardinalidade – N:1
 
-USUARIO – utiliza – IMPRESSORA
+IMPRESSORA – **realiza** – IMPRESSAO
+Cada impressora tem a capacidade de realizar impressões, permitindo que documentos sejam impressos por ela. Cada impressão será realizada por uma impressora.
+Cardinalidade – 1: N
 
-Cada usuário tem a capacidade de utilizar uma ou mais impressoras para
-realizar tarefas de impressão, permitindo a associação entre um usuário e as
-impressoras que eles usam.
-N -> M
+USUARIO – **utiliza** – IMPRESSORA
+Cada usuário tem a capacidade de utilizar uma ou mais impressoras para realizar tarefas de impressão, permitindo a associação entre um usuário e as impressoras que eles usam.
+Cardinalidade – N : M
 
-USUARIO – solicita – IMPRESSAO
 
-Cada registro de contagem de impressões é associado a um usuário que
-iniciou a tarefa de impressão, possibilitando a identificação do usuário
-responsável.
-1->N
+USUARIO – **solicita** – IMPRESSAO
+Cada registro de contagem de impressões é associado a um usuário que iniciou a tarefa de impressão, possibilitando a identificação do usuário responsável.
+Cardinalidade – 1:N
 
-IMPRESSORA – conta – IMPRESSAO
+IMPRESSORA – **conta** – IMPRESSAO
+Cada registro de contagem de impressões está vinculado a uma impressora, permitindo rastrear as estatísticas de impressão para cada dispositivo.
+Cardinalidade – 1:N
 
-Cada registro de contagem de impressões está vinculado a uma impressora,
-permitindo rastrear as estatísticas de impressão para cada dispositivo.
-1->N
 
 ### Diagrama Entidade-Relacionamento (DE-R)
 
@@ -51,3 +56,4 @@ permitindo rastrear as estatísticas de impressão para cada dispositivo.
 |--------|-------------|--------------|
 | 18/10/2023 | Criação do documento | Júlia Farias Sousa|
 | 20/10/2023 | Adicionando referências e versionamento | Júlia Farias Sousa|
+| 20/10/2023 | Adicionando segunda versão | Antonio Rangel |
