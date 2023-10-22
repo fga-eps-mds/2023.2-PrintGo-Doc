@@ -21,6 +21,7 @@ nav:
     - Guias:
         - Guia de Contribuição: guia_de_contribuicao.md
         - Guia de Estilo: guia_de_estilo.md
+        - Protótipo: prototipo_alta_fidelidade.md
     - Comunicação:
         - Comunicação do Time: comunicacao.md
         - Rituais da Equipe:  rituais.md
