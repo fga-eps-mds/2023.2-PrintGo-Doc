@@ -117,6 +117,7 @@ Nas ocasiões em que o commit foi realizado por dupla ou grupo, deve ser acresce
 |19/09/2023| Revisão do documento | Lucas Lima Ferraz |
 |19/09/2023| Recriando com usuário correto | Júlia Farias Sousa |
 |22/10/2023| Arrumando bash e colocando o template de PR | Júlia Farias Sousa |
+|22/10/2023| Revisão do documento | Antonio Rangel |
 
 
 
