@@ -13,6 +13,21 @@ Este documento está estruturado da seguinte forma:
 
 ## 2. Representação Arquitetural
 
+### 2.1. Diagrama de Relações
+
+### 2.2 Representação dos serviços
+#### 2.2.1. Gateway
+O gateway é responsável por realizar a interface do usuário com os demais serviços da aplicação, provendo autenticação e autorização.
+
+#### 2.2.2. User
+O user service é responsável por gerenciar os usuários da aplicação.
+
+#### 2.2.3. Printer
+O printer service é responsável por fazer o gerenciamento de impressoras e impressões.
+
+#### 2.2.4. Occurency
+O occurency service é responsável por fazer o gerenciamento de ocorrências.
+
 ## 3. Visão Lógica
 ### 3.1 Diagrama de Pacotes
 
