@@ -28,6 +28,19 @@ O printer service é responsável por fazer o gerenciamento de impressoras e imp
 #### 2.2.4. Occurency
 O occurency service é responsável por fazer o gerenciamento de ocorrências.
 
+## 2.3. Tecnologias
+#### 2.3.1. React
+O React consiste em uma biblioteca JavaScript para desenvolvimento de interfaces de usuário baseada em componentes, permitindo a criação de componentes encapsulados que gerenciam seu próprio estado que, quando combinanos, possibilitam a criação de UIs complexas. O React será utilizado no front-end.
+
+#### 2.3.2. Node.js
+O Node.js é uma plataforma de aplicação para JavaScript com o objetivo principal de facilitar a construção de aplicações escaláveis. O Node.js é geralmente utilizado no lado do servidor e é orientado para o estilo de programação voltada a evento, sendo leve, eficiente e uma boa alternativa para arquitetura de microsserviços. O Node.js será utilizado em todos os serviços do back-end.
+
+#### 2.3.3. PostgreSQL
+O PostgreSQL é um sistema gerenciador de banco de dados relacionais de código aberto. O PostgreSQL será utilizado para gerenciar as bases de dados dos serviços da aplicação.
+
+#### 2.3.4. Docker
+O Docker é uma plataforma de virtualização de contêineres que revolucionou a forma como as aplicações são desenvolvidas, empacotadas e implantadas. Ele permite que os desenvolvedores criem ambientes isolados e autossuficientes para suas aplicações, chamados de contêineres. Esses contêineres contêm não apenas o código da aplicação, mas também todas as dependências necessárias, como bibliotecas e configurações.
+
 ## 3. Visão Lógica
 ### 3.1 Diagrama de Pacotes
 
@@ -70,3 +83,4 @@ Importação de pacote (import): O conteúdo público do pacote de destino é ad
 | 20/10/2023 | Adicionando referências e versionamento | Vitor Diniz |
 | 20/10/2023 | Adicionando texto do diagrama de pacotes | Júlia Farias Sousa |
 | 21/10/2023 | Adicionando o diagrama de pacotes | Lucas Lima Ferraz |
+| 21/10/2023 | Adicionando texto de tecnologias e representação de serviços | Vitor Diniz |
