@@ -17,7 +17,7 @@ Este documento está estruturado da seguinte forma:
 
 ![Diagrama de Pacotes Front](../assets/arquitetura/diagrama_relacoes.png)
 
-O paradigma arquitetônico dos microsserviços compreende uma abordagem na qual uma aplicação é estruturada a partir de componentes menores, implementados de maneira independente para assegurar um acoplamento flexível. Esses serviços autônomos, geralmente, se comunicam por meio de APIs e são organizados conforme os recursos de negócios.
+O paradigma arquitetônico dos microsserviços compreende uma abordagem na qual uma aplicação é estruturada a partir de componentes menores, implementados de maneira independente para assegurar um acoplamento flexível. Esses serviços autônomos, geralmente, se comunicam por meio de APIs e são organizados conforme as regras de negócios.
 
 A adoção da arquitetura de microsserviços não só acelera o ciclo de desenvolvimento, mas também simplifica significativamente a escalabilidade de uma aplicação. Este modelo arquitetural será incorporado no PrintGo.
 
