@@ -32,6 +32,7 @@ Você decidiu contribuir para o projeto!
 Faça um _fork_ do projeto e crie uma nova _branch_.
 Mais detalhes [aqui](https://help.github.com/pt/enterprise/2.17/user/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork).
 
+
 Aqui algumas dicas:
 
 - Caso decida trabalhar em alguma _issue_, comente na _issue_ escolhida. Dessa forma, outras pessoas saberão que tem alguém trabalhando nela. Caso tenha ficado perdido ou com dúvidas, peça ajuda.
@@ -46,18 +47,35 @@ Aqui algumas dicas:
 
 - Marque a opção "Permitir edição pelos mantenedores". Assim poderemos fazer modificações de emergência mantendo o _pull request_ aberto por você.
 
+
+Nós possuimos também um template para o _pull request_ que seguirá da seguinte forma:
+
+Descrição
+- Criando e arrumando alguns docs
+
+ Revisão 
+<!-- Verifica se os critérios estabelecidos na issue foram realizados -->
+- [x] mkdocs 
+- [x] Prototipo de alta
+- [x] User  Story Template
+
+ Pre-merge checklist 
+
+- [x] O Pull Request refere-se a um único assunto, um título claro e uma descrição em frases gramaticalmente corretas e completas.
+- [x] A branch está atualizada com a branch main.
+- [x] Os commits atendem o padrão especificado na política de contribuição.
+
 ## 5. Política de Branch
 
 As branches serão nomeadas seguindo de maneira padronizada para a melhorar a organização do projeto. Utilizamos as branches apenas para desenvolvimento de código sendo que todas as branches devem ser criadas a partir da **main** e devem estar nomeadas da seguinte maneira:
 
-´´´bash
 
-:bulb:(#04): Desenvolvendo cadastro da impressora
+```bash
+X- Atividade 
 
-Co-authored-by: Júlia Farias julia.farias@gmail.com
-
-´´´
-
+Exemplo: 
+ 4-GuiaDeContribuicao
+```
 
 Sendo que X representa número da issue atribuída seguido pelo nome do documento a ser criado ou modificado, como destacado anteriormente. Em ocasiões em que não se está trabalhando com nenhum documento em específico, então deve-se colocar o nome da issue correspondente.
 
@@ -73,6 +91,13 @@ Os commits devem ser feitos de maneira clara e objetiva respeitando os padrões 
 
 Portanto a formatação do commit será: `<tipo>(#número da issue): assunto`
 
+```bash
+:bulb:(#04): Desenvolvendo cadastro da impressora
+
+Co-authored-by: julisous julia.farias2000@hotmail.com
+
+```
+
 #### 6.1.1 Tipos:
 - :bulb: quando adicionar nova funcionalidade
 - :pencil: quando escrever documentação
@@ -85,13 +110,13 @@ Nas ocasiões em que o commit foi realizado por dupla ou grupo, deve ser acresce
 
 
 
-
 |**Data**|**Descrição**|**Autore(es)**|
 |--------|-------------|--------------|
 |18/09/2023| Criação do documento | Júlia Farias Sousa |
 |19/09/2023| Correção gramatical e modificação da política de branch | Júlia Farias Sousa |
 |19/09/2023| Revisão do documento | Lucas Lima Ferraz |
 |19/09/2023| Recriando com usuário correto | Júlia Farias Sousa |
+|22/10/2023| Arrumando bash e colocando o template de PR | Júlia Farias Sousa |
 
 
 
