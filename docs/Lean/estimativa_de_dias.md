@@ -33,4 +33,4 @@
 |--------|-------------|--------------|
 |22/10/2023| Criação do Documento | Júlia Farias Sousa |
 |22/10/2023| Revisão do Documento | Antonio Rangel |
-
+|22/10/2023| Revisão do Documento | Guilherme Daniel Fernandes da Silva |
