@@ -38,7 +38,8 @@ nav:
     - Planos:
         - Plano de custos: Planos/plano_de_custos.md
         - Plano de riscos: Planos/plano_de_riscos.md
-        - Plano de comunicação: Planos/plano_de_comunicacao.md
+    - Definições do Projeto:
+        - Metodologias: DefiniçõesDoProjeto/metodologia.md
         - Plano de qualidade: Planos/plano_de_qualidade.md
         - Plano de comunicacao: Planos/plano_de_comunicacao.md
     - Gestão de Projeto:
@@ -53,6 +54,7 @@ nav:
         - Jornadas: Lean/jornadas.md
         - Objetivos de negócio: Lean/objetivos_de_negocio.md
         - Personas: Lean/personas.md
+        - Estimativa de dias: Lean/estimativa_de_dias.md
 
 
 extra_css:
