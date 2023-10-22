@@ -98,3 +98,4 @@ Para garantir a qualidade dos procedimentos, usamos uma mistura de tarefas autom
 |--------|-------------|--------------|
 |22/10/2023| Criação do documento | Guilherme Daniel Fernandes da Silva |
 |22/10/2023| Adicionando tabela de métricas | Antonio Rangel |
+|22/10/2023| Revisando documentação | Júlia Farias Sousa|
