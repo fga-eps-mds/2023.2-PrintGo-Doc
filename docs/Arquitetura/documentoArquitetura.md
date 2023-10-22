@@ -91,3 +91,4 @@ Importação de pacote (import): O conteúdo público do pacote de destino é ad
 | 21/10/2023 | Adicionando o diagrama de pacotes | Lucas Lima Ferraz |
 | 21/10/2023 | Adicionando texto de tecnologias e representação de serviços | Vitor Diniz |
 | 22/10/2023 | Adição do Diagrama de Relações | Guilherme Daniel Fernandes da Silva |
+| 22/10/2023 | Adição do Pacote do BackEnd | Davi Matheus da Rocha de Oliveira|
