@@ -50,6 +50,7 @@ nav:
         - Jornadas: Lean/jornadas.md
         - Objetivos de negócio: Lean/objetivos_de_negocio.md
         - Personas: Lean/personas.md
+        - Estimativa de dias: Lean/estimativa_de_dias.md
 
 
 extra_css:
