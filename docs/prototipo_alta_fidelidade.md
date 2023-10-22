@@ -10,4 +10,4 @@ Após definir a identidade visual, conceber a visão do produto e firmar acordos
 |**Data**|**Descrição**|**Autore(es)**|
 |--------|-------------|--------------|
 |22/10/2023| Criação do documento | Davi Matheus  |
-|22/10/2023| Rvisão de documento | Júlia Farias Sousa  |
+|22/10/2023| Revisão de documento | Júlia Farias Sousa e yuri alves  |
