@@ -15,6 +15,12 @@ Este documento está estruturado da seguinte forma:
 
 ### 2.1. Diagrama de Relações
 
+![Diagrama de Pacotes Front](../assets/arquitetura/diagrama_relacoes.png)
+
+O paradigma arquitetônico dos microsserviços compreende uma abordagem na qual uma aplicação é estruturada a partir de componentes menores, implementados de maneira independente para assegurar um acoplamento flexível. Esses serviços autônomos, geralmente, se comunicam por meio de APIs e são organizados conforme os recursos de negócios.
+
+A adoção da arquitetura de microsserviços não só acelera o ciclo de desenvolvimento, mas também simplifica significativamente a escalabilidade de uma aplicação. Este modelo arquitetural será incorporado no PrintGo.
+
 ### 2.2 Representação dos serviços
 #### 2.2.1. Gateway
 O gateway é responsável por realizar a interface do usuário com os demais serviços da aplicação, provendo autenticação e autorização.
@@ -84,3 +90,4 @@ Importação de pacote (import): O conteúdo público do pacote de destino é ad
 | 20/10/2023 | Adicionando texto do diagrama de pacotes | Júlia Farias Sousa |
 | 21/10/2023 | Adicionando o diagrama de pacotes | Lucas Lima Ferraz |
 | 21/10/2023 | Adicionando texto de tecnologias e representação de serviços | Vitor Diniz |
+| 22/10/2023 | Adição do Diagrama de Relações | Guilherme Daniel Fernandes da Silva |
