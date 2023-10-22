@@ -51,9 +51,21 @@ A principal ISO e modelo utilizados no projeto são:
 - NBR - ISO/IEC 25010
 - Modelo de Qualidade Q-Rapids
 
-### Métricas Métricas
+### Métricas
 
 As métricas definidas para o monitoramento de qualidade foram:
+
+| Métrica | Descrição |
+| ---- | ----- |
+| Reliability | Quantidade de bugs presentes do código fonte|
+| Security Rating | Avaliação de segurança de falhas e vulnerabilidades |
+| Maintainability | Quantidade de mau cheiros de código| 
+| Coverage | Porcentagem de linhas de código cobertos por testes|
+| Duplications | Densidade em porcentagem de código duplicado |
+| Size | Quantidade de linhas de declarações, funções, classes, arquivos e comentários|
+| Complexity| Quantidade de complexidade ciclomática e cognitiva|
+| Issues | Quantidade de issues abertas, fechadas, reabertas, falsa positiva e "won't fix"|
+
 
 ## 6. Testes
 
@@ -85,3 +97,4 @@ Para garantir a qualidade dos procedimentos, usamos uma mistura de tarefas autom
 |**Data**|**Descrição**|**Autore(es)**|
 |--------|-------------|--------------|
 |22/10/2023| Criação do documento | Guilherme Daniel Fernandes da Silva |
+|22/10/2023| Adicionando tabela de métricas | Antonio Rangel |
