@@ -103,3 +103,4 @@ A escolha da metodologia de desenvolvimento de software é essencial para o suce
 | ---- | ---- | ---- | ---- |
 | 27/09/2023 | 1.0 | Criação do Documento | Natanael Fernandes Coelho Filho |
 | 22/10/2023 | 1.1| Revisão de documentação |Júlia Farias Sousa |
+| 22/10/2023 | 1.2 | Revisão de documentação | Antonio Rangel Chaves |
