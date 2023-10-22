@@ -40,6 +40,8 @@ nav:
         - Plano de riscos: Planos/plano_de_riscos.md
     - Definições do Projeto:
         - Metodologias: DefiniçõesDoProjeto/metodologia.md
+        - Plano de qualidade: Planos/plano_de_qualidade.md
+        - Plano de comunicacao: Planos/plano_de_comunicacao.md
     - Gestão de Projeto:
         - EAP (Estrutura Analítica do Projeto): GestaoProjeto/eap.md
     - Lean Inception:
