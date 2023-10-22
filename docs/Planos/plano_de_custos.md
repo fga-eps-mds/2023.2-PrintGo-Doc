@@ -12,8 +12,6 @@ Este documento apresenta a estimativa de custos, orçamentos e controle, para qu
 ### 2.1 Pessoas
 Para essa estimativa de custos foi utilizado o custo médio anual por aluno de instituto federal. De acordo com [jornal da unesp](https://jornal.unesp.br/2022/06/08/cobranca-de-mensalidade-nao-e-a-solucao-para-o-financiamento-da-universidade-publica/) [5], esse custo é de R$40.900 anual por aluno. Para essa estimativa, leva-se também em consideração o curso da equipe, Engenharia de Software, que é um curso de 5 anos, de 232 créditos. Considerando também as 17 semanas de projeto e os 15 integrantes da equipe, temos os seguintes cálculos.
 
-Correção: A partir da Sprint 2 temos apenas 16 integrantes da equipe.
-
 **Custo médio por crédito**
 * custo médio anual por integrante x quantidade padrão de anos de curso ÷ quantidade de créditos para formação no curso
 * 40.900 x 5 ÷ 232 = R$**881,50**
@@ -88,12 +86,31 @@ Segundo dados de 2021 da [cultura uol](https://cultura.uol.com.br/noticias/26097
 Somando as estimativas de custo semanal de internet (R$**337,50**) e energia (R$**2,70**) por equipe, têm-se um custo semanal de infraestrutura de **R$340,20**. Considerando as 17 semanas de projeto, o custo total de infrastrutura será de **R$5.783,40**.
 
 
+### 2.6 Vales
+Tendo em vista que temos custos de locomoção e de alimentação causados pela disciplina e pelo projeto, adotaram-se os seguintes valores: duas passagens de R$5,50 por dia de aula e R$6,10 destinados ao almoço no restaurante universitário da UnB. Logo, os custos são:
+**Custo semanal de vale transporte**
+* custo do transporte X quantidade de transportes por dia X quantidade de aulas por semana X quantidade de alunos 
+* R$((5,50 * 2) * 2) * 15 = **R$330,00**
+
+**Custo semanal de vale alimentação**
+* custo do almoço X quantidade de aulas por semana X quantidade de alunos
+* R$(6,10 * 2) * 15 = **R$183,00**
+
+**Custo total semanal com vales pela equipe**
+* Custo semanal de vale transporte + Custo semanal de vale alimentação
+* R$330,00 + R$183,00 = **R$513,00**
+
+**Custo total com vales pela equipe**
+* Custo total semanal com vales X quantidade de alunos
+* R$513,00 * 15 = **R$7695,00**
+
+
 ## 3. Definição do orçamento
 
 Considerando as estimativas de custos acima calculadas e uma margem de 10%, o orçamento total para o projeto em 17 semanas é:
 
-* custo pessoas + custo equipamentos + custo ferramentas + custo capacitação + custo infraestrutura
-* R$52.890,00 + R$45.000,00 + R$0 + R$0 + R$5.783,40 = **R$103.673,40**
+* custo pessoas + custo equipamentos + custo ferramentas + custo capacitação + custo infraestrutura + custo vales
+* R$52.890,00 + R$45.000,00 + R$0 + R$0 + R$5.783,40 + R$7695,00 = **R$112.368,40**
 
 O custo do MVP é calculado com base nas semanas até sua entrega, calculado para X semanas. Sendo assim, o custo do MVP é de **R$X**.  
 A planilha a seguir apresenta uma melhor visualização dos custos semanais, de projeto e do MVP.
@@ -128,3 +145,4 @@ A partir dos custos levantados, foi possível planejar e organizar a  <a href=".
 |17/09/2023| Criação do documento | Lucas Lima |
 |18/09/2023| Correção do link da planilha | Lucas Lima |
 |18/09/2023| Revisão da documentação | Yuri Alves |
+|03/10/2023| Mudança na planilha | Lucas Lima |

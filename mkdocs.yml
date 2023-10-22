@@ -20,13 +20,16 @@ nav:
     - Sobre: index.md
     - Guias:
         - Guia de Contribuição: guia_de_contribuicao.md
+        - Guia de Estilo: guia_de_estilo.md
     - Comunicação:
         - Comunicação do Time: comunicacao.md
         - Rituais da Equipe:  rituais.md
+        - Codigo de Conduta: codigo_conduta.md
         - Relatório de Eventos: 
             - Semana 1: Relatórios/semana1.md
             - Semana 2: Relatórios/semana2.md
             - Semana 3: Relatórios/semana3.md
+            - Semana 4: Relatórios/semana4.md
     - Planejamento:
         - Planejamento: planejamento.md
         - Quadro de conhecimento: Controle/quadro_de_conhecimento.md
@@ -35,8 +38,24 @@ nav:
     - Planos:
         - Plano de custos: Planos/plano_de_custos.md
         - Plano de riscos: Planos/plano_de_riscos.md
+<<<<<<< HEAD
     - Definições do Projeto:
         - Metodologias: DefiniçõesDoProjeto/metodologia.md
+=======
+    - Gestão de Projeto:
+        - EAP (Estrutura Analítica do Projeto): GestaoProjeto/eap.md
+    - Lean Inception:
+        - Dinamicas: Lean/Dinamicas/dinamicas.md
+        - Visão do Produto: Lean/visão_do_produto.md
+        - É, não é, faz, não faz: Lean/e_naoe_faz_naofaz.md
+        - Sequenciador: Lean/sequenciador.md
+        - Canvas MVP: Lean/mvp_canvas.md
+        - Brainstoming: Lean/brainstorming_funcionalidades.md
+        - Jornadas: Lean/jornadas.md
+        - Objetivos de negócio: Lean/objetivos_de_negocio.md
+        - Personas: Lean/personas.md
+
+>>>>>>> da402182a665dfc44cd732a8b2ed11a03c2ab32c
 
 extra_css:
   - stylesheets/extra.css

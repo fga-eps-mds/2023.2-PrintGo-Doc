@@ -1,3 +1,9 @@
 site/
+<<<<<<< HEAD
 venv/
 .DS_Store
+=======
+.DS_Store
+
+venv/
+>>>>>>> da402182a665dfc44cd732a8b2ed11a03c2ab32c
