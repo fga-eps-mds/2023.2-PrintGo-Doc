@@ -21,8 +21,8 @@ nav:
     - Guias:
         - Guia de Contribuição: guia_de_contribuicao.md
         - Guia de Estilo: guia_de_estilo.md
+        - Protótipo: prototipo_alta_fidelidade.md
     - Comunicação:
-        - Comunicação do Time: comunicacao.md
         - Rituais da Equipe:  rituais.md
         - Codigo de Conduta: codigo_conduta.md
         - Relatório de Eventos: 
@@ -38,6 +38,10 @@ nav:
     - Planos:
         - Plano de custos: Planos/plano_de_custos.md
         - Plano de riscos: Planos/plano_de_riscos.md
+    - Definições do Projeto:
+        - Metodologias: DefiniçõesDoProjeto/metodologia.md
+        - Plano de qualidade: Planos/plano_de_qualidade.md
+        - Plano de comunicacao: Planos/plano_de_comunicacao.md
     - Gestão de Projeto:
         - EAP (Estrutura Analítica do Projeto): GestaoProjeto/eap.md
     - Lean Inception:
@@ -53,6 +57,6 @@ nav:
     - Arquitetura:
         - Documento de arquitetura: Arquitetura/documentoArquitetura.md
         - Printer Service: Arquitetura/PrinterService.md
-
+        - Estimativa de dias: Lean/estimativa_de_dias.md
 extra_css:
   - stylesheets/extra.css
