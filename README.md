@@ -32,6 +32,8 @@ Para contribuir com esse projeto é importante seguir nosso [Guia de Contribuiç
 
 - [Back-End: PrinterService](https://github.com/fga-eps-mds/2023.2-PrintGo-PrinterService)
 
+- [Banco de dados: Prisma](https://github.com/fga-eps-mds/2023.2-PrintGo-Prisma)
+
 
 ## Integrantes
 
