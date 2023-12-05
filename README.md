@@ -34,6 +34,8 @@ Para contribuir com esse projeto é importante seguir nosso [Guia de Contribuiç
 
 - [Banco de dados: Prisma](https://github.com/fga-eps-mds/2023.2-PrintGo-Prisma)
 
+- [Api Gateway](https://github.com/fga-eps-mds/2023.2-PrintGo-ApiGateway)
+
 
 ## Integrantes
 
