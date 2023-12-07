@@ -1,7 +1,7 @@
-# 2023.2-PrintGo-UserService
+# 2023.2-PrintGo-Doc
 
 <div align="center">
-     <img src="assets/logoPrintGo.svg" height="350px" width="350px">
+     <img src="assets/guia-de-estilo/nova_logo.png" height="350px" width="350px">
 </div>
 
 ## Quality Control
@@ -27,8 +27,6 @@ Para contribuir com esse projeto é importante seguir nosso [Guia de Contribuiç
 - [Front-End](https://github.com/fga-eps-mds/2023.2-PrintGo-FrontEnd)
 
 - [Back-End: UserService](https://github.com/fga-eps-mds/2023.2-PrintGo-UserService)
-
-- [Back-End: OcurrenceService](https://github.com/fga-eps-mds/2023.2-PrintGo-OcurrenceService)
 
 - [Back-End: PrinterService](https://github.com/fga-eps-mds/2023.2-PrintGo-PrinterService)
 
