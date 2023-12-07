@@ -1,8 +1,9 @@
 # 2023.2-PrintGo-Doc
 
 <div align="center">
-     <img src="assets/guia-de-estilo/nova_logo.png" height="350px" width="350px">
+     <img src="docs/assets/guia-de-estilo/logoPrintGo.svg" height="350px" width="350px">
 </div>
+
 
 ## Quality Control
 
