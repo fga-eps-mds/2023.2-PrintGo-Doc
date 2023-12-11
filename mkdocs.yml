@@ -51,7 +51,7 @@ nav:
         - Objetivos de negócio: Lean/objetivos_de_negocio.md
         - Personas: Lean/personas.md
         - Estimativa de dias: Lean/estimativa_de_dias.md
-
+    - Relatório de Encerramento do Projeto: Relatórios/relatorio_encerramento_projeto.md
 
 extra_css:
   - stylesheets/extra.css
