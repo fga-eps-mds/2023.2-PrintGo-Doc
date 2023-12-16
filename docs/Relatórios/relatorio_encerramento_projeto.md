@@ -42,7 +42,23 @@ O presente documento tem como propósito efetuar uma análise comparativa entre 
 ### 2.3 Análise
 Foram planejadas 14 atividades no backlog e 4 delas já foram realizadas. Isso significa que 26% das atividades planejadas para o projeto já foram implementadas. Um dos motivos para essa porcentagem foi a necessidade de trabalhar no projeto desde o início, sendo necessária a configuração do ambiente, a realização do deploy do front e de todos microsserviços e a criação das pipelines de CI/CD.
 
-### 3. Qualidade
+### 3. Custos Executados
+Autor e dono do documento: [Lucas](https://github.com/mibasFerraz)
+<iframe width=100% height=500px src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRJ0NLYnJswEZw9qclqGsOHgU65ek88FSZPq6ADx4ZFnajxMngSR8-Kx9UrdiBgQA/pubhtml?widget=true&amp;headers=false"></iframe>
+
+
+### 4. Riscos
+Durante o decorrer do projeto, o time enfrentou diversas dificuldades principalmente envolvendo os riscos que tratam sobre comunicação, tanto entre os membros do time, tanto com os clientes, conflito de horários, conflito entre atividades de outras matérias e da baixa produtividade do time durante boa parte do projeto. Esses riscos principais são retratados na planilha como R5, R6, R10, R12, R13.<br>
+A ocorrência desses riscos a partir da primeira semana de desenvolvimento afetou significativamente o trabalho do time e geraram ao decorrer do projeto um agravamento dos riscos R1 (principalmente entre os membros de MDS), R2 e R9. Culminando em tarefas feitas pela metade e no atraso consecutivo das entregas das releases.<br>
+Antes do começo do desenvolvimento, o time realizou treinamentos das tecnologias básicas do projeto com os membros de MDS, porém por conta dos problemas enfrentados durante o projeto e também por uma certa falta de comprometimento, o aprendizado de boa parte dos membros assim como suas participações no projeto foram muito limitadas.<br>
+O time só foi capaz de lidar de certa forma com os problemas na parte final do projeto, com duas semanas da entrega final. Foram desenvolvidas 2 releases que não foram totalmente validadas pelos clientes, justamente por conta da limitação de tempo para realizar correções.<br>
+A planilha de riscos só foi documentada e analisada até a segunda sprint.
+
+
+<iframe width=100% height=500px src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTAV-yFXWIarhSAXJnwa1TGx-ySa_kf8feAIaN1JP4DSO0eZqDzA4zquzTCbaYnXBnHJVmSdOqw_fAR/pubhtml?widget=true&amp;headers=false"></iframe>
+
+
+### 5. Qualidade
 
 #### Planejado
 
@@ -56,9 +72,14 @@ Após o desenvolvimento das US, os repositórios apresentaram as seguintes cober
 - **PrinterService:** 91,7%
 - **UserService:** 93,9%
 
-### 4. Próximos passos
+### 6. Próximos passos
 
-Este documento tem o propósito de fornecer orientações sobre os próximos passos que podem e/ou devem ser executados no projeto, os quais não foram realizados no semestre de 2023/2.
+- Verificar com os clientes quais critérios de aceitação não foram aceitos, para que as histórias de usuário 01, 02, 03, 04 possam ser consideradas entregues de fato.
+- Fazer protótipos de alta fidelidade da US09 até a US13
+- Implementar US05 até US13
+- Fazer a análise de riscos de cada sprint realizada
+- Realizar e documentar testes funcionais
+
 
 
 #### Impressora
@@ -79,11 +100,22 @@ Este documento tem o propósito de fornecer orientações sobre os próximos pas
 - Criar tutorial para deploy de todos os serviços.
 - Criar um Swagger para os microsserviços.
 - Incrementar docker-compose para executar todos os serviços com apenas um comando.
-- Automatizar processo de deploy.
+- Automatizar processo de deploy nos microsserviços.
 - Melhorar a implementação do docker, de modo que seja possível executar os microsserviços sem que seja necessário rodar `npm i`.
+- Alterar a arquitetura, de forma que cada microsserviço tenha um banco de dados.
+- Refazer plano de custos, para levar em consideração a inflação de 2019 até a data presente
+- Utilizar mais componentes do React no frontend.
+- Atualizar as issues das histórias de usuários com os prints dos protótipos que estão faltando
+- Fazer manual de instalação do projeto para que o cliente Vidal possa implantar o sistema nas suas máquinas virtuais na Polícia Civil. Ou então marcar uma reunião com o mesmo para que essa instalação possa ser feita com ajuda do time. 
+- Atualizar critérios de aceitação das US01, US03 e US04 para que conste o consumo do Schedular. E na US01 precisa constar o critério da listagem de usuários
+- A US15 deve ser uma tarefa da US01
+- Ao atualizar algo no backend, é necessário atualizar o banco de dados e o pacote @fernandes-natanael/printgo-prisma manualmente em cada microsserviço. Seria interessante que isso fosse automatizado.
+
+
 
 |**Data**|**Descrição**|**Autore(es)**|
 |--------|-------------|--------------|
 |10/12/2023| Criação do documento | Guilherme Daniel Fernandes da Silva, Vitor Diniz Pagani Vieira Ribeiro, Davi Matheus da Rocha de Oliveira, Antonio Rangel Chaves, Júlia Farias Sousa, Lucas Lima Ferraz, Natanael Fernandes |
+| 16/12/2023 | Finalizando documento | Antonio Rangel e Felipe Amorim |
 
 

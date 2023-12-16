@@ -3,7 +3,7 @@
 ## 1. Introdução
 
 O guia de estilo é um conjunto de diretrizes que estabelece padrões e regras para a escrita e apresentação de design para um produto.
-Tem como principal objetivo ajudar a manter a consistência na comunicação visual do projeto, aumentando a sua legibilidade, reconhecimento e memorização pelo público-alvo.
+Tem como principal objetivo ajudar a manter a consistência na comunicação visual do projeto, aumentando a sua legibilidade, reconhecimento e memorização pelo público-alvo. Ele pode ser encontrado nesse [link](https://www.figma.com/file/NELNdbY5Mc8WJl8US3gNr7/printGo?type=design&node-id=0-1&mode=design&t=zqD555P2JbtSscOv-0)
 
 ## 2. Logo
 
