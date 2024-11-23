@@ -1,0 +1,2173 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../../Planos/plano_de_riscos/">
+      
+      
+        <link rel="next" href="../../Planos/plano_de_qualidade/">
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.45">
+    
+    
+      
+        <title>Metodologias - PCGO</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.0253249f.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#metodologias-do-projeto" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="PCGO" class="md-header__button md-logo" aria-label="PCGO" data-md-component="logo">
+      
+  <img src="../../assets/logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            PCGO
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Metodologias
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+    
+  
+  Sobre
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../guia_de_contribuicao/" class="md-tabs__link">
+          
+  
+  Guias
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../rituais/" class="md-tabs__link">
+          
+  
+  Comunicação
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../planejamento/" class="md-tabs__link">
+          
+  
+  Planejamento
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../Planos/plano_de_custos/" class="md-tabs__link">
+          
+  
+  Planos
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="./" class="md-tabs__link">
+          
+  
+  Definições do Projeto
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../GestaoProjeto/eap/" class="md-tabs__link">
+          
+  
+  Gestão de Projeto
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../Lean/Dinamicas/dinamicas/" class="md-tabs__link">
+          
+  
+  Lean Inception
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../Arquitetura/documentoArquitetura/" class="md-tabs__link">
+          
+  
+  Arquitetura
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../Relat%C3%B3rios/relatorio_encerramento_projeto/" class="md-tabs__link">
+        
+  
+    
+  
+  Relatório de Encerramento do Projeto
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="PCGO" class="md-nav__button md-logo" aria-label="PCGO" data-md-component="logo">
+      
+  <img src="../../assets/logo.png" alt="logo">
+
+    </a>
+    PCGO
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sobre
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Guias
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Guias
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../guia_de_contribuicao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Guia de Contribuição
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../guia_de_estilo/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Guia de Estilo
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../prototipo_alta_fidelidade/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Protótipo
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Comunicação
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Comunicação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rituais/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rituais da Equipe
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../codigo_conduta/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Codigo de Conduta
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_3" id="__nav_3_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Relatório de Eventos
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_3">
+            <span class="md-nav__icon md-icon"></span>
+            Relatório de Eventos
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Relat%C3%B3rios/semana1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Semana 1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Relat%C3%B3rios/semana2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Semana 2
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Relat%C3%B3rios/semana3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Semana 3
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Relat%C3%B3rios/semana4/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Semana 4
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Planejamento
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Planejamento
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Controle/quadro_de_conhecimento/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Quadro de conhecimento
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Controle/quadro_de_disponibilidade/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Quadro de disponibilidade
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Controle/cronograma_de_dojo/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cronograma de dojo
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Planos
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Planos
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Planos/plano_de_custos/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Plano de custos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Planos/plano_de_riscos/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Plano de riscos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+      
+        
+        
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Definições do Projeto
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Definições do Projeto
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Metodologias
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Metodologias
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1-introducao" class="md-nav__link">
+    <span class="md-ellipsis">
+      1. Introdução
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-lean-inception" class="md-nav__link">
+    <span class="md-ellipsis">
+      2. Lean Inception
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="2. Lean Inception">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#21-visao-do-produto" class="md-nav__link">
+    <span class="md-ellipsis">
+      2.1. Visão do Produto
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#22-e-nao-e-faz-nao-faz" class="md-nav__link">
+    <span class="md-ellipsis">
+      2.2. É, Não É; Faz, Não Faz
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#23-objetivos-do-negocio" class="md-nav__link">
+    <span class="md-ellipsis">
+      2.3. Objetivos do Negócio
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#24-personas" class="md-nav__link">
+    <span class="md-ellipsis">
+      2.4. Personas
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#25-jornada-de-usuario" class="md-nav__link">
+    <span class="md-ellipsis">
+      2.5. Jornada de Usuário
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#26-brainstorming-de-funcionalidades" class="md-nav__link">
+    <span class="md-ellipsis">
+      2.6. Brainstorming de Funcionalidades
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#27-revisao-tecnica-de-negocio-e-de-ux" class="md-nav__link">
+    <span class="md-ellipsis">
+      2.7. Revisão Técnica, de Negócio e de UX
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#28-sequenciador" class="md-nav__link">
+    <span class="md-ellipsis">
+      2.8. Sequenciador
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#29-canvas-mvp" class="md-nav__link">
+    <span class="md-ellipsis">
+      2.9. Canvas MVP
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-scrum" class="md-nav__link">
+    <span class="md-ellipsis">
+      3. Scrum
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="3. Scrum">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#31-planejamento-de-sprint" class="md-nav__link">
+    <span class="md-ellipsis">
+      3.1. Planejamento de Sprint
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#32-daily-scrum" class="md-nav__link">
+    <span class="md-ellipsis">
+      3.2. Daily Scrum
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#33-desenvolvimento" class="md-nav__link">
+    <span class="md-ellipsis">
+      3.3. Desenvolvimento
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#34-revisao-de-sprint" class="md-nav__link">
+    <span class="md-ellipsis">
+      3.4. Revisão de Sprint
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#35-retrospectiva-de-sprint" class="md-nav__link">
+    <span class="md-ellipsis">
+      3.5. Retrospectiva de Sprint
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-xp-extreme-programming" class="md-nav__link">
+    <span class="md-ellipsis">
+      4. XP (Extreme Programming)
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-kanban" class="md-nav__link">
+    <span class="md-ellipsis">
+      5. Kanban
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#conclusao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Conclusão
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Histórico de versão
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Planos/plano_de_qualidade/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Plano de qualidade
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Planos/plano_de_comunicacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Plano de comunicacao
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Gestão de Projeto
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            Gestão de Projeto
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../GestaoProjeto/eap/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    EAP (Estrutura Analítica do Projeto)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Lean Inception
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8">
+            <span class="md-nav__icon md-icon"></span>
+            Lean Inception
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Lean/Dinamicas/dinamicas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Dinamicas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Lean/vis%C3%A3o_do_produto/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Visão do Produto
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Lean/e_naoe_faz_naofaz/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    É, não é, faz, não faz
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Lean/sequenciador/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sequenciador
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Lean/mvp_canvas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Canvas MVP
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Lean/brainstorming_funcionalidades/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Brainstoming
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Lean/jornadas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Jornadas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Lean/objetivos_de_negocio/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Objetivos de negócio
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Lean/personas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Personas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9" >
+        
+          
+          <label class="md-nav__link" for="__nav_9" id="__nav_9_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Arquitetura
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9">
+            <span class="md-nav__icon md-icon"></span>
+            Arquitetura
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Arquitetura/documentoArquitetura/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Documento de arquitetura
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Arquitetura/PrinterService/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Printer Service
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Lean/estimativa_de_dias/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Estimativa de dias
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Relat%C3%B3rios/relatorio_encerramento_projeto/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Relatório de Encerramento do Projeto
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1-introducao" class="md-nav__link">
+    <span class="md-ellipsis">
+      1. Introdução
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-lean-inception" class="md-nav__link">
+    <span class="md-ellipsis">
+      2. Lean Inception
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="2. Lean Inception">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#21-visao-do-produto" class="md-nav__link">
+    <span class="md-ellipsis">
+      2.1. Visão do Produto
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#22-e-nao-e-faz-nao-faz" class="md-nav__link">
+    <span class="md-ellipsis">
+      2.2. É, Não É; Faz, Não Faz
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#23-objetivos-do-negocio" class="md-nav__link">
+    <span class="md-ellipsis">
+      2.3. Objetivos do Negócio
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#24-personas" class="md-nav__link">
+    <span class="md-ellipsis">
+      2.4. Personas
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#25-jornada-de-usuario" class="md-nav__link">
+    <span class="md-ellipsis">
+      2.5. Jornada de Usuário
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#26-brainstorming-de-funcionalidades" class="md-nav__link">
+    <span class="md-ellipsis">
+      2.6. Brainstorming de Funcionalidades
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#27-revisao-tecnica-de-negocio-e-de-ux" class="md-nav__link">
+    <span class="md-ellipsis">
+      2.7. Revisão Técnica, de Negócio e de UX
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#28-sequenciador" class="md-nav__link">
+    <span class="md-ellipsis">
+      2.8. Sequenciador
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#29-canvas-mvp" class="md-nav__link">
+    <span class="md-ellipsis">
+      2.9. Canvas MVP
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-scrum" class="md-nav__link">
+    <span class="md-ellipsis">
+      3. Scrum
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="3. Scrum">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#31-planejamento-de-sprint" class="md-nav__link">
+    <span class="md-ellipsis">
+      3.1. Planejamento de Sprint
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#32-daily-scrum" class="md-nav__link">
+    <span class="md-ellipsis">
+      3.2. Daily Scrum
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#33-desenvolvimento" class="md-nav__link">
+    <span class="md-ellipsis">
+      3.3. Desenvolvimento
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#34-revisao-de-sprint" class="md-nav__link">
+    <span class="md-ellipsis">
+      3.4. Revisão de Sprint
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#35-retrospectiva-de-sprint" class="md-nav__link">
+    <span class="md-ellipsis">
+      3.5. Retrospectiva de Sprint
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-xp-extreme-programming" class="md-nav__link">
+    <span class="md-ellipsis">
+      4. XP (Extreme Programming)
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-kanban" class="md-nav__link">
+    <span class="md-ellipsis">
+      5. Kanban
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#conclusao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Conclusão
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Histórico de versão
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+<h1 id="metodologias-do-projeto">Metodologias do Projeto</h1>
+<h2 id="1-introducao">1. Introdução</h2>
+<p>O desenvolvimento de software é um processo complexo que requer a aplicação de metodologias eficazes para garantir a entrega de produtos de alta qualidade, dentro do prazo e do orçamento estabelecidos. Neste documento, serão apresentadas algumas das metodologias mais utilizadas no desenvolvimento de software, incluindo Lean Inception, Scrum, XP (Extreme Programming) e Kanban. Cada uma dessas metodologias possui suas próprias características e abordagens, o que permite que a equipe de desenvolvimento possam ter uma melhor organização e rapidez para desenvolver.</p>
+<h2 id="2-lean-inception">2. Lean Inception</h2>
+<p>A <strong>Lean Inception</strong> é uma metodologia que se concentra em alinhar rapidamente a equipe de desenvolvimento e os stakeholders em relação aos objetivos do projeto. Ela envolve uma série de workshops colaborativos realizados no início do projeto, com o objetivo de definir o escopo, os requisitos e as prioridades. Alguns dos principais passos da Lean Inception incluem:</p>
+<h3 id="21-visao-do-produto">2.1. Visão do Produto</h3>
+<ul>
+<li>A "Visão do Produto" é uma declaração concisa que descreve o propósito e os objetivos do projeto de forma clara e inspiradora. Ela serve como um guia para toda a equipe, ajudando a manter o foco nas metas do projeto e na criação de valor para os usuários.</li>
+</ul>
+<h3 id="22-e-nao-e-faz-nao-faz">2.2. É, Não É; Faz, Não Faz</h3>
+<ul>
+<li>Esta técnica envolve a criação de listas claras de afirmações que definem o que o produto é e o que não é (É/Não É) e o que o produto faz e não faz (Faz/Não Faz). Isso ajuda a evitar mal-entendidos e a estabelecer limites claros para o projeto.</li>
+</ul>
+<h3 id="23-objetivos-do-negocio">2.3. Objetivos do Negócio</h3>
+<ul>
+<li>Os "Objetivos do Negócio" são metas específicas relacionadas ao sucesso do projeto, muitas vezes expressas em termos quantitativos, como aumento de receita, redução de custos ou melhoria na satisfação do cliente. Eles ajudam a equipe a entender a importância do projeto para a organização.</li>
+</ul>
+<h3 id="24-personas">2.4. Personas</h3>
+<ul>
+<li>As "Personas" são representações fictícias de grupos de usuários com características e necessidades semelhantes. Identificar as personas ajuda a equipe a compreender melhor para quem está desenvolvendo o software e a adaptar o produto às necessidades desses usuários.</li>
+</ul>
+<h3 id="25-jornada-de-usuario">2.5. Jornada de Usuário</h3>
+<ul>
+<li>A "Jornada de Usuário" descreve o caminho que um usuário típico percorre ao interagir com o produto ou serviço, desde a descoberta até o uso contínuo. Isso ajuda a equipe a identificar pontos de dor, oportunidades de melhoria e momentos críticos na experiência do usuário.</li>
+</ul>
+<h3 id="26-brainstorming-de-funcionalidades">2.6. Brainstorming de Funcionalidades</h3>
+<ul>
+<li>O "Brainstorming de Funcionalidades" é uma sessão criativa em que a equipe gera ideias para funcionalidades e recursos que podem ser incluídos no produto. Isso estimula a criatividade e a inovação, permitindo que a equipe explore diferentes abordagens para atender aos objetivos do projeto.</li>
+</ul>
+<h3 id="27-revisao-tecnica-de-negocio-e-de-ux">2.7. Revisão Técnica, de Negócio e de UX</h3>
+<ul>
+<li>A revisão técnica envolve a análise da viabilidade técnica das funcionalidades propostas. A revisão de negócios avalia o alinhamento das funcionalidades com os objetivos do negócio, enquanto a revisão de UX (Experiência do Usuário) verifica a usabilidade e a acessibilidade do produto.</li>
+</ul>
+<h3 id="28-sequenciador">2.8. Sequenciador</h3>
+<ul>
+<li>O "Sequenciador" é uma ferramenta que ajuda a equipe a priorizar e ordenar as funcionalidades propostas com base em critérios como valor para o usuário e complexidade técnica. Isso ajuda a definir a ordem de implementação das funcionalidades ao longo do tempo.</li>
+</ul>
+<h3 id="29-canvas-mvp">2.9. Canvas MVP</h3>
+<ul>
+<li>O "Canvas MVP" é uma representação visual que destaca as funcionalidades essenciais do produto mínimo viável (MVP). Isso ajuda a equipe a concentrar-se nas funcionalidades mais críticas que serão desenvolvidas inicialmente para lançar o produto de forma rápida e eficaz.</li>
+</ul>
+<p>A Lean Inception é uma abordagem abrangente que envolve todos esses aspectos para garantir que a equipe e os stakeholders tenham uma compreensão comum e alinhada do projeto desde o início, o que contribui para um desenvolvimento mais eficiente e bem-sucedido do software.</p>
+<h2 id="3-scrum">3. Scrum</h2>
+<p>O <strong>Scrum</strong> é uma metodologia ágil que organiza o desenvolvimento em iterações chamadas de sprints. As principais etapas do Scrum incluem:</p>
+<h3 id="31-planejamento-de-sprint">3.1. Planejamento de Sprint</h3>
+<p>No <strong>Planejamento de Sprint</strong>, a equipe de desenvolvimento e o Product Owner trabalham juntos para definir as metas da sprint e selecionar as histórias de usuário ou itens do Backlog do Produto a serem implementados durante a sprint. Essa etapa envolve:</p>
+<ul>
+<li><strong>Seleção de Itens do Backlog</strong>: O Product Owner seleciona as histórias de usuário ou tarefas do Backlog do Produto com base nas prioridades e na capacidade da equipe.</li>
+<li><strong>Estimativas</strong>: A equipe de desenvolvimento fornece estimativas de esforço para as tarefas selecionadas.</li>
+<li><strong>Definição das Metas da Sprint</strong>: A equipe estabelece as metas claras que deseja atingir durante a sprint.</li>
+</ul>
+<h3 id="32-daily-scrum">3.2. Daily Scrum</h3>
+<p>O <strong>Daily Scrum</strong>, também conhecido como reunião diária de stand-up, é uma reunião curta e diária em que a equipe de desenvolvimento se reúne para discutir o progresso e as atividades do dia. Essa reunião é crucial para manter a comunicação contínua e identificar quaisquer impedimentos. Para a elaboração de nosso porjeto optamos por manter a daily diaria por um Bot no Discord que apresenta progresso do projeto automaticamente.</p>
+<h3 id="33-desenvolvimento">3.3. Desenvolvimento</h3>
+<p>Na etapa de <strong>Desenvolvimento</strong>, a equipe trabalha nas tarefas e funcionalidades definidas para a sprint. Esta é a parte do ciclo em que o código é escrito, testado e implementado. A equipe realiza revisões regulares do código e mantém a colaboração próxima para garantir que o trabalho esteja progredindo de acordo com o plano da sprint.</p>
+<h3 id="34-revisao-de-sprint">3.4. Revisão de Sprint</h3>
+<p>Ao final da sprint, ocorre a <strong>Revisão de Sprint</strong>, que é uma reunião em que a equipe demonstra o trabalho concluído ao Product Owner e aos stakeholders. Durante essa reunião:</p>
+<ul>
+<li><strong>Demonstração do Produto</strong>: A equipe mostra as funcionalidades desenvolvidas durante a sprint.</li>
+<li><strong>Feedback</strong>: O Product Owner e os stakeholders fornecem feedback sobre o que foi entregue.</li>
+<li><strong>Revisão do Backlog</strong>: Com base no feedback e nas mudanças necessárias, o Backlog de Produto pode ser atualizado para refletir as novas prioridades e requisitos.</li>
+</ul>
+<h3 id="35-retrospectiva-de-sprint">3.5. Retrospectiva de Sprint</h3>
+<p>A <strong>Retrospectiva de Sprint</strong> é uma reunião realizada pela equipe de desenvolvimento após a Revisão de Sprint. Nesta reunião:</p>
+<ul>
+<li><strong>Avaliação do Processo</strong>: A equipe reflete sobre o que funcionou bem e o que pode ser melhorado no processo de desenvolvimento.</li>
+<li><strong>Ações de Melhoria</strong>: São identificadas ações para melhorar a eficiência e a eficácia da equipe na próxima sprint.</li>
+<li><strong>Compromissos para a Próxima Sprint</strong>: A equipe define compromissos para a próxima sprint, com base nas lições aprendidas na retrospectiva.</li>
+</ul>
+<p>O ciclo de Scrum é repetido em sprints subsequentes, com a equipe ajustando e melhorando continuamente o processo para entregar valor de maneira mais eficaz aos usuários e clientes.</p>
+<h2 id="4-xp-extreme-programming">4. XP (Extreme Programming)</h2>
+<p>O <strong>Extreme Programming (XP)</strong> é uma abordagem ágil que enfatiza a qualidade do código e a colaboração próxima entre desenvolvedores e stakeholders. Principais práticas do XP incluem:</p>
+<ul>
+<li><strong>Programação em Pares</strong>: Desenvolvedores trabalham em pares para melhorar a qualidade do código e compartilhar conhecimento.</li>
+<li><strong>Testes Automatizados</strong>: Testes unitários e de aceitação são escritos antes do código e são executados automaticamente.</li>
+<li><strong>Entrega Contínua</strong>: Novas funcionalidades são entregues rapidamente em pequenos incrementos.</li>
+<li><strong>Cliente Presente</strong>: O cliente ou representante do cliente está envolvido no processo de desenvolvimento.</li>
+</ul>
+<h2 id="5-kanban">5. Kanban</h2>
+<p>O <strong>Kanban</strong> é uma metodologia que se concentra na visualização e no controle do fluxo de trabalho. Principais elementos do Kanban incluem:</p>
+<ul>
+<li><strong>Quadro Kanban</strong>: Um quadro visual que representa o fluxo de trabalho, com colunas que representam os estados das tarefas.</li>
+<li><strong>Limites de Trabalho em Progresso (WIP)</strong>: Restrições são aplicadas para controlar o número de tarefas em andamento em cada coluna.</li>
+<li><strong>Melhoria Contínua</strong>: O Kanban incentiva a análise constante e a otimização do processo de desenvolvimento.</li>
+</ul>
+<p>Cada uma dessas metodologias tem suas próprias vantagens e desvantagens, e a escolha da metodologia certa depende das necessidades e do contexto do projeto. Muitas equipes optam por combinar elementos de várias metodologias para criar uma abordagem personalizada que atenda às suas necessidades específicas de desenvolvimento de software.</p>
+<h2 id="conclusao">Conclusão</h2>
+<p>A escolha da metodologia de desenvolvimento de software é essencial para o sucesso do projeto. Cada metodologia oferece abordagens específicas. A adaptação e o comprometimento da equipe são fundamentais. Independentemente da escolha, a comunicação e a colaboração são cruciais para resultados eficazes.</p>
+<h2 id="historico-de-versao">Histórico de versão</h2>
+<table>
+<thead>
+<tr>
+<th>Data</th>
+<th>Versão</th>
+<th>Descrição</th>
+<th>Autor(es)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>27/09/2023</td>
+<td>1.0</td>
+<td>Criação do Documento</td>
+<td>Natanael Fernandes Coelho Filho</td>
+</tr>
+<tr>
+<td>22/10/2023</td>
+<td>1.1</td>
+<td>Revisão de documentação</td>
+<td>Júlia Farias Sousa</td>
+</tr>
+<tr>
+<td>22/10/2023</td>
+<td>1.2</td>
+<td>Revisão de documentação</td>
+<td>Antonio Rangel Chaves</td>
+</tr>
+<tr>
+<td>22/10/2023</td>
+<td>1.3</td>
+<td>Revisão de documentação</td>
+<td>Guilherme Daniel Fernandes da Silva</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var labels=set.querySelector(".tabbed-labels");for(var tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["content.code.annotate", "content.tabs.link", "header.autohide", "navigation.instant", "navigation.sections", "navigation.tabs", "navigation.top", "navigation.tracking"], "search": "../../assets/javascripts/workers/search.6ce7567c.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.83f73b43.min.js"></script>
+      
+    
+  </body>
+</html>
